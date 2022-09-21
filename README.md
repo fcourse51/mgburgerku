@@ -11,7 +11,8 @@ This creates a backdoor for mega storage and serves publicly.
 
 [HEROKU RAPID DEPLOYMENT AVAILABLE](https://developeranaz.github.io/Mega-index-heroku/random.sh) without froking or github account.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/fcourse51/mgburgerku/random.html)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/fcourse51/mgburgerku)
+
 
 
 Use your Real mega Username/Email and real Password (without encryption) normally. 
